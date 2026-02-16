@@ -86,7 +86,7 @@ The achieved ROC-AUC of 0.70 aligns with the performance ceiling of traditional 
 * Measurement noise in clinical variables  
 * Unobserved confounders (e.g., genetics, long-term behavior)
 
-Large-scale, clinically deployed models such as the Framingham Risk Score and ASCVD Pooled Cohort Equations report discrimination (C-statistic/AUROC) values in the same range as the performance we observe here. For example, external validations have shown C-statistics of approximately 0.71–0.76 for the Framingham Risk Score and 0.73–0.76 for the Pooled Cohort Equations in predicting 10-year cardiovascular risk. Therefore, an AUC of \~0.70 indicates performance consistent with established clinical standards rather than inherent model weakness.
+Large-scale clinical models such as the Framingham Risk Score and the ASCVD Pooled Cohort Equations report AUC values in the same range as the performance observed here. External validation studies show AUC values of approximately 0.71–0.76 for the Framingham Risk Score and 0.73–0.76 for the Pooled Cohort Equations when predicting 10-year cardiovascular risk. Therefore, an AUC of \~0.70 reflects performance consistent with established clinical standards rather than inherent model weakness.
 
 ### **3.3 Interactive Lifestyle Simulation**
 
